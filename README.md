@@ -32,6 +32,9 @@ auth-app/
  │    └── redux/
  │         ├── store.js
  │         └── usersSlice.js
+
+ Fixed Vercel deployment
+
  ├── package.json
  └── vite.config.js
 
